@@ -1,2 +1,4 @@
-# tesis-4cmb-desarrollo
-Todo los integrantes del equipo del grupo 4cmb podemos modificar el proyecto final.
+# PROYECTO FINAL 4CMB
+JÓVENES VAMOS A CREAR UN ARCHIVO INDEX QUE ES EL ARCHIVO INICIAL DEL PROYECTO.
+Y AGREGARLE CÓDIGO.
+[VISITA MI RED SOCIAL]{https://www.blogger.com/about/?bpli=1}
